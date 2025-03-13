@@ -5,3 +5,8 @@ jupyter
 matplotlib
 seaborn
 EOF
+scipy
+seaborn
+plotly
+dask
+implicit
