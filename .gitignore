@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+recsys_env
+category_tree.csv
+events.csv
+item_properties_part1.1.csv
+item_properties_part2.csv
