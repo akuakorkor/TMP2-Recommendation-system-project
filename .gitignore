@@ -177,6 +177,8 @@ item_properties_part1.1.csv
 item_properties_part2.csv
 merged_events_item_properties_dask.csv
 cleaned_merged_events_item_properties.csv
+cleaned_events.csv
+
 item_properties.parquet
 merged_events_item_properties.parquet
 hybrid_model.pkl
