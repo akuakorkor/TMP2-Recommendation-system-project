@@ -176,3 +176,4 @@ events.csv
 item_properties_part1.1.csv
 item_properties_part2.csv
 item_properties.parquet
+merged_events_item_properties.parquet
