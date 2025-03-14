@@ -178,6 +178,7 @@ item_properties_part2.csv
 merged_events_item_properties_dask.csv
 cleaned_merged_events_item_properties.csv
 cleaned_events.csv
+events_with_time_features.csv
 
 item_properties.parquet
 merged_events_item_properties.parquet
