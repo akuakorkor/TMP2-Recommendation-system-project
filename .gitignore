@@ -195,6 +195,7 @@ merged_events_with_item_properties_09.csv
 merged_events_with_item_properties_10.csv
 merged_events_with_item_properties_11.csv
 merged_events_with_item_properties_12.csv
+user_activity_with_anomalies.csv
 
 
 item_properties.parquet
